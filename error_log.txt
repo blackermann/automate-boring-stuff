@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\backermann1\AppData\Local\Temp\ipykernel_2484\3210899765.py", line 5, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
